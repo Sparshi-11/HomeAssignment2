@@ -1,0 +1,28 @@
+body {
+    background:linear-gradient(rgba(247, 249, 248, 0.877),rgba(243, 243, 244, 0.959)), url(images/bckg.jpeg);
+    background-size:cover;
+    background-position:center;
+    font-family:sans-serif;
+  
+}
+h1 {
+        color:rgb(183, 24, 106);
+        font-size:30px;
+        font-weight:bolder;
+       
+        }	
+p{
+            color:rgb(26, 168, 173);
+            font-size:15px;
+            line-height:25px;
+            font-weight:normal;
+        }
+
+.heading{
+    font-size:20px;
+    color:rgba(234, 64, 109, 0.789);
+}
+span{
+    background-color: rgb(249, 157, 202);
+    font-style:italic;
+}
